@@ -5,6 +5,7 @@ This is my first semester at Mizzou. I transfered from MACC which is also here i
 ## Classes
 
 I am currently in a few different IT coding classes including INFOTC 1000 and INFOTC 1040.
+
 **Here is an example of a code I did for class**
 
 def perform_calculation():
