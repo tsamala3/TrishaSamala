@@ -1,11 +1,11 @@
 # My Goals
 
-* Personal
+**Personal**
 + eating healthy
 + maintain clean room
 
 
-* Career
+**Career**
 * Finding a job I am passionate about 
 * real estate
-* 
+
