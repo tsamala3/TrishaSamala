@@ -8,4 +8,5 @@
 **Career**
 * Finding a job I am passionate about 
 * real estate
+* Being a great coder
 
