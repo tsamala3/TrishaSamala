@@ -6,7 +6,6 @@ This is my first semester at Mizzou. I transfered from MACC which is also here i
 
 I am currently in a few different IT coding classes including INFOTC 1000 and INFOTC 1040.
 **Here is an example of a code I did for class**
-inline 'code'
 
 def perform_calculation():
    
@@ -41,7 +40,7 @@ def main():
  
  An image I created in Illustrator
  
- [robot]
+ [robot](TrishaSamala4c.png)
 
 main()
    
