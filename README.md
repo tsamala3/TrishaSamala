@@ -5,7 +5,7 @@ Choose one of the following to learn more!
 + [School](School.md)
 + [Goals](Goals.md)
 
-![smile](
+![smile](jacob-vizek-ibvHQnpk4LE-unsplash.jpg)
 
 
 
