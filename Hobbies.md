@@ -9,3 +9,7 @@ I've always had a interest in art including drawing and painting. Although I don
 ## Physical Activity
 
 I also really enjoy beign active and being outisde. I usually try to go to the gym three times a week. I also like getting a bunch of people together and playing sand volleyball and other games. 
+
+## Being with family
+
+I am a family orineted person and love the Holidays because thats when my family comes together. I love celebrating little milestones within my family like birthdays, gender reveals, and accomplishments. I definitely would not be who I am and where I am without my family.
