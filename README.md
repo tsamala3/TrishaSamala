@@ -4,7 +4,7 @@ Choose one of the following to learn more!
 + [Hobbies](Hobbies.md)
 + [School](School.md)
 + [Goals](Goals.md)
-[Mizzou](https://missouri.edu)
+
 ![smile](jacob-vizek-ibvHQnpk4LE-unsplash.jpg)
 
 
