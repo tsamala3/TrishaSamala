@@ -2,12 +2,13 @@
 
 **Personal**
 + eating healthy
-+ maintain clean room
-
++ maintain a healthy routine
 
 **Career**
-* Finding a UI/UX Job I am passionate about 
-* real estate
-* Being a software engineer
+* Finding a UI/UX Job I am passionate about :accessibility:
+* real estate 🏘️
+* Being a software engineer 💻
+
+
 
 + [HomePage](README.md)
