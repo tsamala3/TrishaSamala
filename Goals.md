@@ -6,7 +6,8 @@
 
 
 **Career**
-* Finding a job I am passionate about 
+* Finding a UI/UX Job I am passionate about 
 * real estate
-* Being a great coder
+* Being a software engineer
 
++ [HomePage](README.md)
